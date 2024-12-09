@@ -3,7 +3,7 @@
 ## Introduction
 
 This project is a flexible and modular C++ framework for managing various devices.
-It provides tools for device communication, task management, and event-driven interactions, making it ideal for IoT, automation, and embedded system projects.
+It provides tools for device communication, task management, and event-driven interactions.
 
 ## Upcoming Features
 
